@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Crudify.Core.Abstraction;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Crudify.Core;
 
